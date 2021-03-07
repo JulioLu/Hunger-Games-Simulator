@@ -1,11 +1,9 @@
 
 /*NAME:TZOULIO LOULI
- *AEM:9567
  *PHONE:6972847108
  *email:julioluli15@gmail.com
  *         
  *NAME:KONSTANTINOS PETRIDIS
- *AEM:9403
  *PHONE:6978365745
  *email:petridkon@gmail.com
  */
