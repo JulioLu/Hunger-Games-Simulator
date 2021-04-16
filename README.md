@@ -1,4 +1,4 @@
-# Hunger-games-simulator
+
 Java program of hunger games and implementation in graphics environment
 
 ~ Board ~
